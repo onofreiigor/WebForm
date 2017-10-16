@@ -1,0 +1,10 @@
+E:\VS Projects\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.config
+E:\VS Projects\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
+E:\VS Projects\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
+E:\VS Projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csprojResolveAssemblyReference.cache
+E:\VS Projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+E:\VS Projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.Cache
+E:\VS Projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.CoreCompileInputs.cache
+E:\VS Projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe
+E:\VS Projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.pdb
+E:\VS Projects\WebBrowser\WebBrowser\obj\Debug\WebBrowser.wbForm.resources
